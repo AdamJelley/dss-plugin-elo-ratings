@@ -1,0 +1,4 @@
+dataiku
+numpy
+scipy
+pandas
